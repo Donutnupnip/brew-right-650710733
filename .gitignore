@@ -14,7 +14,7 @@ venv/
 
 # Data
 data/
-
+*.csv
 !data_csv/
 !data_csv/*.csv
 !data_csv/sales.csv
